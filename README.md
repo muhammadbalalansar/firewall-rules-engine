@@ -72,7 +72,7 @@ fwrule export testdata/iptables_basic.rules -f nftables
 fwrule diff testdata/iptables_basic.rules testdata/nftables_basic.rules
 ```
 
-## Learn
+## Learn:
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
